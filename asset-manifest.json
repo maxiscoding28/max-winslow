@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/max-winslow/static/css/main.f3583062.css",
+    "main.js": "/max-winslow/static/js/main.af089d32.js",
+    "static/js/787.9b81ed37.chunk.js": "/max-winslow/static/js/787.9b81ed37.chunk.js",
+    "static/media/me.jpeg": "/max-winslow/static/media/me.f149ea1d7f4979d99aac.jpeg",
+    "index.html": "/max-winslow/index.html",
+    "main.f3583062.css.map": "/max-winslow/static/css/main.f3583062.css.map",
+    "main.af089d32.js.map": "/max-winslow/static/js/main.af089d32.js.map",
+    "787.9b81ed37.chunk.js.map": "/max-winslow/static/js/787.9b81ed37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3583062.css",
+    "static/js/main.af089d32.js"
+  ]
+}
